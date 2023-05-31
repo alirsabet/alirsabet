@@ -1,31 +1,31 @@
 <h1 align="center">Hi there, I'm Ali</h1>
 
-<p align="center">
- <a href="https://www.linkedin.com/in/hialisabet/" target="_blank">
-  <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" />
- </a>
+<div>
+Becoming a Open Source Contributor.
+</div> 
   
- <a href="https://twitter.com/hialisabet" target="_blank">
-  <img src="https://img.icons8.com/fluent/48/000000/twitter.png" />
- </a>
-</p>
+##
+  
+### Programming Languges
+<a href="https://hadi7546.me">
+ <img src="https://skillicons.dev/icons?i=dart,go&theme=dark" />
+</a>
 
-<p align="center"> 
- <strong>
-  Skills
-  </strong>
-</p>
+##
 
-<p align="center"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" alt="dotnetcore" width="40" height="40" />
-</p>
+### Tools and Technologies
+<a href="https://hadi7546.me">
+ <img src="https://skillicons.dev/icons?i=flutter,vscode,figma,git,github,firebase,appwrite,heroku,bash,linux&theme=dark" />
+</a>
 
-- 💬 Ask me about .NET, Clean Architecture, Micro Services
+##
+### Connect with me
+<a href="https://linkedin.com/in/hialisabet">
+ <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" />
+</a>
 
-</br>
+##
 
-<p align="center">
- <a href="#" alt="Ali Sabet's github stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=hialisabet&theme=tokyonight&show_icons=true" />
- </a>
-</p>
+### Stats
+<a href="https://github.com/Hadi7546">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=hialisabet&show_icons=true&count_private=true&include_all_commits=true&theme=nord"/></a>
