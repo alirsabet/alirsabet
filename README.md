@@ -1,27 +1,33 @@
 <h1 align="center">Hi there, I'm Ali</h1>
 
 <div>
-Becoming a Open Source Contributor.
+Software engineer with a passion for crafting efficient and scalable solutions.
+Experienced in Dotnet Ecosystem, dedicated to delivering high-quality code.
+Enthusiastic about collaborating on innovative projects and contributing to the open-source community.
 </div> 
   
 ##
   
 ### Programming Languges
-<a href="https://hadi7546.me">
- <img src="https://skillicons.dev/icons?i=dart,go&theme=dark" />
+<a>
+ <img src="https://skillicons.dev/icons?i=cs,python&theme=dark" />
 </a>
 
 ##
 
 ### Tools and Technologies
-<a href="https://hadi7546.me">
- <img src="https://skillicons.dev/icons?i=flutter,vscode,figma,git,github,firebase,appwrite,heroku,bash,linux&theme=dark" />
+<a>
+ <img src="https://skillicons.dev/icons?i=dotnet,azure,cassandra,docker,github,gitlab,grafana,kafka,mongodb,mysql,postgres,postman,prometheus,rabbitmq,redis,regex,visualstudio,vscode&theme=dark" />
 </a>
 
 ##
+
 ### Connect with me
 <a href="https://linkedin.com/in/hialisabet">
  <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" />
+</a>
+<a href="https://dev.to/hialisabet">
+ <img src="https://skillicons.dev/icons?i=devto&theme=dark" />
 </a>
 
 ##
