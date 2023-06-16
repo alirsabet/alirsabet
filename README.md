@@ -11,6 +11,7 @@ Enthusiastic about collaborating on innovative projects and contributing to the 
 ### Programming Languges
 <a>
  <img src="https://skillicons.dev/icons?i=cs,python&theme=dark" />
+C#, Python
 </a>
 
 ##
@@ -19,6 +20,7 @@ Enthusiastic about collaborating on innovative projects and contributing to the 
 <a>
  <img src="https://skillicons.dev/icons?i=dotnet,azure,cassandra,docker,github,gitlab,grafana,kafka,mongodb,mysql,postgres,postman,prometheus,rabbitmq,redis,regex,visualstudio,vscode&theme=dark" />
 </a>
+Dotnet, Azure, Cassandra, Docker, Github, Gitlab, Grafana, Kafka, Mongodb, Mysql, Postgres, Postman, Prometheus, Rabbitmq, Redis, Regex, Visualstudio, Vscode
 
 ##
 
