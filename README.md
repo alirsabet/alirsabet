@@ -18,9 +18,9 @@ C#, Python
 
 ### Tools and Technologies
 <a>
- <img src="https://skillicons.dev/icons?i=dotnet,azure,cassandra,docker,github,gitlab,grafana,kafka,mongodb,mysql,postgres,postman,prometheus,rabbitmq,redis,regex,visualstudio,vscode&theme=dark" />
+ <img src="https://skillicons.dev/icons?i=dotnet,azure,docker,github,gitlab,grafana,kafka,mongodb,mysql,postgres,postman,prometheus,rabbitmq,redis,regex,visualstudio,vscode&theme=dark" />
 </a>
-Dotnet, Azure, Cassandra, Docker, Github, Gitlab, Grafana, Kafka, Mongodb, Mysql, Postgres, Postman, Prometheus, Rabbitmq, Redis, Regex, Visualstudio, Vscode
+Dotnet, Azure, Docker, Github, Gitlab, Grafana, Kafka, Mongodb, Mysql, Postgres, Postman, Prometheus, Rabbitmq, Redis, Regex, Visualstudio, VScode
 
 ##
 
