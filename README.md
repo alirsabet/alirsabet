@@ -35,5 +35,7 @@ Dotnet, Azure, Docker, Github, Gitlab, Grafana, Kafka, Mongodb, Mysql, Postgres,
 ##
 
 ### Stats
-<a href="https://github.com/Hadi7546">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=hialisabet&show_icons=true&count_private=true&include_all_commits=true&theme=nord"/></a>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=hialisabet&locale=en&mode=daily&theme=react&hide_border=true&border_radius=5&date_format=j M[ Y]&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hialisabet&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=4&theme=react&hide_border=true&order=2" height="150" alt="languages graph"  />
+</div>
