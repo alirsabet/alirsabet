@@ -1,9 +1,7 @@
 <h1 align="center">Hi there, I'm Ali</h1>
 
 <div>
-Software engineer with a passion for crafting efficient and scalable solutions.
-Experienced in Dotnet Ecosystem, dedicated to delivering high-quality code.
-Enthusiastic about collaborating on innovative projects and contributing to the open-source community.
+Software engineer with a passion for crafting efficient and scalable solutions. Experienced in Dotnet Ecosystem, dedicated to delivering high-quality code. Enthusiastic about collaborating on innovative projects and contributing to the open-source community.
 </div> 
   
 ##
