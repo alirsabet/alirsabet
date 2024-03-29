@@ -1,33 +1,25 @@
-<h1 align="center">Hi there, I'm Ali</h1>
+<h1 align="center">Hi, I'm Ali</h1>
 
 <div>
-Software engineer with a passion for crafting efficient and scalable solutions. Experienced in Dotnet Ecosystem, dedicated to delivering high-quality code. Enthusiastic about collaborating on innovative projects and contributing to the open-source community.
+I'm passionate about leveraging technology to solve complex problems and improve business processes. My goal is to continue contributing to innovative projects and help organizations overcome their most pressing challenges.
 </div> 
   
 ##
-  
-### Programming Languges
-<a>
- <img src="https://skillicons.dev/icons?i=cs,python&theme=dark" />
-C#, Python
-</a>
 
-##
-
-### Tools and Technologies
+### Technologies
 <a>
- <img src="https://skillicons.dev/icons?i=dotnet,azure,docker,github,gitlab,grafana,kafka,mongodb,mysql,postgres,postman,prometheus,rabbitmq,redis,regex,visualstudio,vscode&theme=dark" />
+ <img src="https://skillicons.dev/icons?i=cs,dotnet,py,docker,github,postman,rabbitmq,redis,regex,ai&theme=dark" />
 </a>
-Dotnet, Azure, Docker, Github, Gitlab, Grafana, Kafka, Mongodb, Mysql, Postgres, Postman, Prometheus, Rabbitmq, Redis, Regex, Visualstudio, VScode
+C#, Dotnet, Python, Docker, Github, Postman, Rabbitmq, Redis, Regex, AI
 
 ##
 
 ### Connect with me
-<a href="https://linkedin.com/in/hialisabet">
+<a href="https://linkedin.com/in/alirsabet">
  <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" />
 </a>
-<a href="https://dev.to/hialisabet">
- <img src="https://skillicons.dev/icons?i=devto&theme=dark" />
+<a href="https://twitter.com/alirsabet">
+ <img src="https://skillicons.dev/icons?i=twitter&theme=dark" />
 </a>
 
 ##
