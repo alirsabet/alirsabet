@@ -18,9 +18,6 @@ C#, Dotnet, Python, Docker, Github, Postman, Rabbitmq, Redis, Regex, AI
 <a href="https://linkedin.com/in/alirsabet">
  <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" />
 </a>
-<a href="https://twitter.com/alirsabet">
- <img src="https://skillicons.dev/icons?i=twitter&theme=dark" />
-</a>
 
 ##
 
