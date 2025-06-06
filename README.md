@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Ali</h1>
+<h1 align="center">Hi, I'm Ali.</h1>
 
 <div>
 I'm passionate about leveraging technology to solve complex problems and improve business processes. My goal is to continue contributing to innovative projects and help organizations overcome their most pressing challenges.
