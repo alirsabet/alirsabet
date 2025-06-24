@@ -4,7 +4,6 @@
 
 Tehran, Iran  
 [alirsabet.com](https://alirsabet.com)  
-[hialisabet@gmail.com](mailto:hialisabet@gmail.com)  
 [LinkedIn](https://linkedin.com/in/alirsabet)
 
 ---
