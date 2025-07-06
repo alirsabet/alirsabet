@@ -3,8 +3,8 @@
 **Software Engineer | MBA Candidate**
 
 Tehran, Iran  
-[alirsabet.com](https://alirsabet.com)  
-[LinkedIn](https://linkedin.com/in/alirsabet)
+[alisabetx.com](https://alisabetx.com)  
+[LinkedIn](https://linkedin.com/in/alisabetx)
 
 ---
 
@@ -33,4 +33,4 @@ Tehran, Iran
 
 ### 📈 GitHub Stats
 
-![Ali's GitHub Stats](https://github-readme-stats.vercel.app/api?username=alirsabet&show_icons=true&theme=dark)
+![Ali's GitHub Stats](https://github-readme-stats.vercel.app/api?username=alisabetx&show_icons=true&theme=dark)
